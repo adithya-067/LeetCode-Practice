@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adithya-067/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adithya-067/LeetCode-Practice/tree/master/0035-search-insert-position) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
