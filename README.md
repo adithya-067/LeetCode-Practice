@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/adithya-067/LeetCode-Practice/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
