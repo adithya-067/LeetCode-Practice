@@ -37,4 +37,5 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/adithya-067/LeetCode-Practice/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/adithya-067/LeetCode-Practice/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
