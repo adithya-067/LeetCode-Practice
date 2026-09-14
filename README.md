@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/adithya-067/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/adithya-067/LeetCode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adithya-067/LeetCode-Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adithya-067/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adithya-067/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
