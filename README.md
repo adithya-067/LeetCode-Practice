@@ -6,6 +6,7 @@
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adithya-067/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/adithya-067/LeetCode-Practice/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/adithya-067/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/adithya-067/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adithya-067/LeetCode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
