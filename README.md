@@ -15,6 +15,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/adithya-067/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/adithya-067/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/adithya-067/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/adithya-067/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
