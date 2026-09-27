@@ -48,16 +48,19 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adithya-067/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adithya-067/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adithya-067/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -72,6 +75,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adithya-067/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Hash Table
 |  |
