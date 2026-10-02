@@ -5,6 +5,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adithya-067/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/adithya-067/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adithya-067/LeetCode-Practice/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/adithya-067/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/adithya-067/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/adithya-067/LeetCode-Practice/tree/master/0202-happy-number) |
 ## Prefix Sum
