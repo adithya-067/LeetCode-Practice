@@ -75,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
@@ -100,4 +101,8 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/adithya-067/LeetCode-Practice/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/adithya-067/LeetCode-Practice/tree/master/0197-rising-temperature) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
