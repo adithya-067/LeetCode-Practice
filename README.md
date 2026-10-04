@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adithya-067/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adithya-067/LeetCode-Practice/tree/master/0031-next-permutation) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adithya-067/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya-067/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adithya-067/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adithya-067/LeetCode-Practice/tree/master/0031-next-permutation) |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adithya-067/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
