@@ -77,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
@@ -106,9 +107,18 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithya-067/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
