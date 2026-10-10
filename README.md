@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adithya-067/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/adithya-067/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/adithya-067/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/adithya-067/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adithya-067/LeetCode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/adithya-067/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adithya-067/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
