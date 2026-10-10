@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/adithya-067/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/adithya-067/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adithya-067/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/adithya-067/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adithya-067/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
@@ -86,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/adithya-067/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/adithya-067/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/adithya-067/LeetCode-Practice/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/adithya-067/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/adithya-067/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
